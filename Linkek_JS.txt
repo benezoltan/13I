@@ -1,1 +1,2 @@
 https://www.javatpoint.com/javascript-form-validation
+https://www.inf.u-szeged.hu/sziiv
