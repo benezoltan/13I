@@ -1,2 +1,3 @@
 https://www.javatpoint.com/javascript-form-validation
 https://www.inf.u-szeged.hu/sziiv
+http://bodaistvan.hu/infalap/html_css/js_alapok.html#feladatok_1
