@@ -1,0 +1,28 @@
+<html>
+ <head>
+ </head>
+ <body>
+<div id='feedback' onClick='goodbye()'>Users without Javascript see
+this.</div>
+<script type='text/javascript'>
+ document.getElementById('feedback').innerHTML='Hello World!';
+ function goodbye() {
+document.getElementById('feedback').innerHTML='Goodbye World!';
+ }
+</script>
+//------------------------------------------------------------
+<div id="example" onClick="colorize()" style="cursor: pointer;">Click on this text to change the
+    background color</div>
+    <script type='text/javascript'>
+    function colorize() {
+     var element = document.getElementById("example");
+     element.style.backgroundColor='#ff0000';
+    }
+    </script>
+    <div 
+        onmouseover="this.style.backgroundColor='yellow'" 
+        onmouseOut="this.style.backgroundColor='white'">
+        W3Schools
+    </div>
+ </body>
+</html>
