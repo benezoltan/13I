@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript alapok</title>
+</head>
+
+<body onload="countToTen();">
+    <script>
+        function countToTen() {
+            var count = 0;
+            elem = document.getElementById("theCount");
+            while (count < 10) {
+                count++;
+                elem.innerHTML +=count + "<br>";
+            }
+
+            pizza = 0;
+        pizzak = pizza + 1;
+        elem.innerHTML+=pizza+" "+pizzak+"<br/>";
+        elem.innerHTML += 3+7+"<br/>";
+        var x = "5";
+        var y = "7";
+        var total = parseInt(x)+Number(y); //számmá alakítás
+        elem.innerHTML += total+"<br/>";
+        const konstans = 2022;
+        // konstans++;hibaüzenettel megszakad a program futása
+        elem.innerHTML+=konstans+"<br/>";
+        var z = 1.7976931348623157e+308;
+        elem.innerHTML+=z+"<br/>";
+        elem.innerHTML+=Number("alma")+"<br/>" // NaN
+        elem.innerHTML+=Number(10<6)+"<br/>" // igaz=1/ hamis=0
+        elem.innerHTML +="-------------------";
+        }
+    </script>
+
+    <h1>Számok 1-10</h1>
+    <p id="theCount">Elem tartalma:<br/></p>
+
+    <button id="bigButton" onclick="alert('Hello World!');">
+        Kattints ide!</button>
+    
+
+</body>
+
+</html>
