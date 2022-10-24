@@ -8,6 +8,7 @@ https://www.geeksforgeeks.org/how-to-fetch-data-from-an-api-in-reactjs/
 https://www.bezkoder.com/react-node-express-mysql/
 
 https://www.bezkoder.com/node-js-rest-api-express-mysql/#Create_MySQL_table
+
 https://www.bezkoder.com/react-express-authentication-jwt/
 
 https://sequelize.org/
