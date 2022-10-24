@@ -3,6 +3,8 @@
 
 npx express-generator
 
+https://github.com/bezkoder/nodejs-express-mysql
+
 https://dev.to/alexmercedcoder/frontend-javascript-ajax-http-request-guide-1jk2
 
 https://dev.to/alexmercedcoder/frontend-javascript-ajax-http-request-guide-1jk2
