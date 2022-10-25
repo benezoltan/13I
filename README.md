@@ -20,3 +20,5 @@ https://www.bezkoder.com/react-express-authentication-jwt/
 https://sequelize.org/
 
 https://www.typescriptlang.org/docs/handbook/2/basic-types.html
+API
+https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
