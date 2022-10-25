@@ -23,3 +23,6 @@ https://www.typescriptlang.org/docs/handbook/2/basic-types.html
 
 API
 https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+JS objektum:
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
