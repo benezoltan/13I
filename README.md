@@ -26,3 +26,6 @@ https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 
 JS objektum:
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+
+JS Class:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
