@@ -29,3 +29,5 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 
 JS Class:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+MySQL: https://www.c-sharpcorner.com/article/connect-mysql-with-c-sharp-net-framework-in-visual-studio-2019/
