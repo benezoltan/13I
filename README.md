@@ -31,3 +31,5 @@ JS Class:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 MySQL: https://www.c-sharpcorner.com/article/connect-mysql-with-c-sharp-net-framework-in-visual-studio-2019/
+
+https://dev.mysql.com/doc/dev/connector-net/6.10/html/P_MySql_Data_MySqlClient_MySqlCommand_Parameters.htm
